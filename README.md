@@ -7,5 +7,5 @@
     3. three
 ```
 
-[CV page repository](https://github.com/Lizz-ok/cv_page)
+[CV page repository](https://lizz-ok.github.io/cv_page/)
 ![image](assets/photo.jpg)
